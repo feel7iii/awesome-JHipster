@@ -26,3 +26,10 @@ http://developer.okta.com/blog/2017/05/09/progressive-web-applications-with-angu
 
 #### OAuth 2.0 Login Sample
 * https://github.com/spring-projects/spring-security/blob/5.0.0.M1/samples/boot/oauth2login/README.adoc
+
+
+#### A new complete video tutorial on using JHipster:
+* 链接: https:// pan.baidu.com /s/1mhFAk56 密码: atk6
+
+#### Building Cloud Native Progressive Web Apps Use JHi
+* 链接: https://pan.baidu.com/s/1eSFwGmu 密码: w2v9
