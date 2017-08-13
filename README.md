@@ -41,3 +41,9 @@ http://developer.okta.com/blog/2017/05/09/progressive-web-applications-with-angu
 
 #### J To Go is a free online JHipster wrapper.一个JHi的在线生成器,生成完Down下来直接运行,不需要再在本机安装其他环境(但NODE/Yarn&JDK必备)
 * https://j-to-go.github.io/
+
+#### JHi Online 
+* https://jhipster.julien-dubois.com/
+
+#### Develop and Deploy Microservices With JHipster
+* https://dzone.com/articles/develop-and-deploy-microservices-with-jhipster-1
