@@ -48,6 +48,6 @@ http://developer.okta.com/blog/2017/05/09/progressive-web-applications-with-angu
 #### Develop and Deploy Microservices With JHipster
 * https://dzone.com/articles/develop-and-deploy-microservices-with-jhipster-1
 
-设置NPM和YARN代理
+#### 设置NPM和YARN代理(默写不确定的情况下会丢失依赖,慎用)
 npm config set registry=https://registry.npm.taobao.org
 yarn config set register=https://registry.npm.taobao.org
