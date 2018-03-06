@@ -1,5 +1,8 @@
 # Awesome JHipster
 
+#### JHipster-Conf
+https://jhipster-conf.github.io/
+
 #### Understanding When to use RabbitMQ or Apache Kafka
 * https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
 
