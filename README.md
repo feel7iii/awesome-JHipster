@@ -53,4 +53,14 @@ http://developer.okta.com/blog/2017/05/09/progressive-web-applications-with-angu
 
 #### 设置NPM和YARN代理(默写不确定的情况下会丢失依赖,慎用)
 npm config set registry=https://registry.npm.taobao.org
+
 yarn config set register=https://registry.npm.taobao.org
+
+#### Develop a Microservices Architecture with OAuth 2.0 and JHipster
+https://developer.okta.com/blog/2018/03/01/develop-microservices-jhipster-oauth
+
+#### Monitoring a JHipster application with Datadog
+http://blog.ippon.tech/monitoring-a-jhipster-app-with-datadog/
+
+#### Advanced JHipster WebSockets
+https://jruddell.com/blog/advanced-jhipster-websockets
